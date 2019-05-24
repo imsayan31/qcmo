@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 27, 2018, 7:29:13 PM
+    Author     : Sayanta Dey
+*/
+
+.get-total-div{
+    position: fixed;
+    top: 270px;
+    right: 0;
+    background: #fff;
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+.get-total-div span{
+    font-size: 20px;
+    padding: 8px;
+    line-height: 23px;
+}
+
+.last-reset-text{
+    margin: 15px;
+    font-size: 15px;
+    font-weight: 600;
+}
